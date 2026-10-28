@@ -61,7 +61,7 @@ export default function App() {
       <header className="page-heading">
         <div>
           <h1>Моя библиотека</h1>
-          <p>Список книг и заметки о чтении. Данные сохраняются в браузере.</p>
+          <p>Список книг и заметки о чтении.</p>
         </div>
         <button className="primary" onClick={() => setForm({ book: null })}>
           Добавить книгу

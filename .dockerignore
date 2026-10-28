@@ -1,0 +1,10 @@
+node_modules
+.pnpm-store
+dist
+.git
+docs
+tests
+test-results
+playwright-report
+*.tsbuildinfo
+.DS_Store
